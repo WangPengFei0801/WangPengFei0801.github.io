@@ -4,17 +4,17 @@ markdown: kramdown
 
 # 作者信息
 author: 
-  name: anxingle
-  email: anxingle820@gmail.com
-  link:  anxingle.github.io
-  weibo: http://weibo.com/2459205691/profile?topnav=1&wvr=6
-  github: http://github.com/anxingle
+  name: Wangpengfei
+  email: 188120894@qq.com
+  link:  WangPengFei0801.github.io
+  weibo: 暂时没有
+  github: https://github.com/WangPengFei0801
   music: http://music.163.com/#/user/home?id=57312747
   linkedin: 
 
 # 站点信息
-title: 美歌者
-description: My personal blog
+title: 个人博客
+description: 我的个人博客
 url: 
 rss_url: /pages/atom.xml
 
@@ -29,7 +29,7 @@ ga:
 
 # disqus 设置  评论框-留言模块
 disqus:
-  shortname: anxingle
+  shortname: Wangpengfei
 
 # 主题设置，自动激活某个标签|默认主页显示的分类文章
 active: 计算机
@@ -45,5 +45,3 @@ locals:
   about: 关于
   newest: 最新文章
   archive: 归档
-
-theme: jekyll-theme-midnight
