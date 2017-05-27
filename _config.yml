@@ -46,4 +46,4 @@ locals:
   newest: 最新文章
   archive: 归档
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-slate
