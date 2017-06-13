@@ -11,7 +11,7 @@ description:
 
 
 ## 预备工作     
-1.  (最好自带翻墙梯子) python工具包利器： Anaconda3(因为win下只出了python3.5版本的)， [清华大学conda源](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/) , [清华大学pipy源](https://mirror.tuna.tsinghua.edu.cn/help/pypi/) , [Pypi官方源](https://pypi.python.org/packages) ，[Conda官方源(其中一个发布源)](https://anaconda.org/menpo/) ，最重要的就是Google了。
+1.  (xxxxxxx) python工具包利器： Anaconda3(因为win下只出了python3.5版本的)， [清华大学conda源](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/) , [清华大学pipy源](https://mirror.tuna.tsinghua.edu.cn/help/pypi/) , [Pypi官方源](https://pypi.python.org/packages) ，[Conda官方源(其中一个发布源)](https://anaconda.org/menpo/) ，最重要的就是Google了。
 2.   当我们下载好了Anaconda后，你懂的，直接安装，最好是写入系统的path中（注意提示，不要直接一路回车过去）。 在Linux中更是如此，不要使用sudo权限，否则会写入sudo 的路径中，以后使用的时候诸多麻烦的。安装好anaconda后，你应该有了virtualenv这个工具了，这个工具是用来创建虚拟环境的（一个系统往往有很多人在用，大家对系统的要求都不一样，你需要opencv2.8，他可能需要opencv3.1...为了解决这个问题，python虚拟环境应运而生，具体请google）。如果没有，请这样子： pip install  virtualenv  -i http://pypi.douban.com/simple,  请注意看，我这里使用的是豆瓣的pypi源头，换成清华源当然也是可以的了。 **反正无论如何，你都要装上这个virtualenv这个工具**，如果中途提示你升级 pip之类的，听话就行了。           
         
 ## 安装虚拟环境       
