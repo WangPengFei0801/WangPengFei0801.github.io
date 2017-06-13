@@ -1,10 +1,9 @@
 ---
 layout: post
-title: windows 安装tensorflow 
-category: 计算机
-tags: 神经网络
+title:前端工程———基础篇
+category: 计算机(IT)
 keywords:  机器学习 tensorflow
-description: 
+description: 前端基础篇介绍[借鉴于](https://github.com/fouber/blog/issues/10)
 ---
 
 
