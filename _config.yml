@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 title:            hacke2's blog
 description:      hacke2的前端技术博客,分享自己的技术心得,积累前段技能,汇聚前端之路的点点滴滴。
 disqus_shortname: hacke2
@@ -75,3 +76,6 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+=======
+theme: jekyll-theme-merlot
+>>>>>>> origin/master
