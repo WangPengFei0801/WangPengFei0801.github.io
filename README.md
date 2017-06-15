@@ -49,5 +49,3 @@
     * [Optimizing Content Efficienc（优化内容效率）](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/?hl=zh-cn)
     * [Rendering（渲染性能）](https://developers.google.com/web/fundamentals/performance/rendering/?hl=zh-cn)
     * [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
-
-微博 [@前端农民工](http://www.weibo.com/fouber)
