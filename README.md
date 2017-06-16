@@ -1,6 +1,6 @@
 # 个人博客
 
-麻烦点star，不要fork
+### [博客跳转地址:](https://wangpengfei0801.github.io)
 
 > 或许现在很多企业和团队尚未重视前端工程，或许前端工程在很多人眼里还只是“构建工具”的代名词，又或许未来前端领域的变革使得一切工程问题从根本上得到解决。不管怎样，我只是希望当下能认真的记录自己在前端工程领域的所见所想，与正在经历前端工程化改进，并被此过程困扰的同学交流心得。
 
@@ -23,7 +23,7 @@
     * [模块化开发组合php版静态资源管理示例](https://github.com/fouber/fis-php-md.js)
     * [java版静态资源管理系统示例](https://github.com/fouber/fis-java-jsp)
     * [静态资源缓存控制演示项目](https://github.com/fouber/static-resource-digest-project)
-* 业界实践
+* 业界实践(来自于其他的网站)
     * [前端组件化开发实践](http://tech.meituan.com/frontend-component-practice.html) by 美团 
     * [2015前端组件化框架之路](https://github.com/xufei/blog/issues/19) by [@民工精髓](http://weibo.com/sharpmaster)
     * [前端工程之模块化](http://fex.baidu.com/blog/2014/03/fis-module/) by [@沈洪顺](http://weibo.com/u/1916384703)
@@ -50,4 +50,3 @@
     * [Rendering（渲染性能）](https://developers.google.com/web/fundamentals/performance/rendering/?hl=zh-cn)
     * [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 
-微博 [@前端农民工](http://www.weibo.com/fouber)
